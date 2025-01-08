@@ -5,7 +5,7 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "start": "next start",
+    "start": "next start -p 8787",
     "lint": "next lint"
   },
   "prettier": "@epic-web/config/prettier",
