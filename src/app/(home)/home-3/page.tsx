@@ -40,7 +40,7 @@ const PageHomeDemo3: React.FC = () => {
 									src={Vector1}
 									alt=""
 								/>
-								<span className="relative">Heart</span>
+								<span className="relative">PK</span>
 							</span>
 						</span>
 					}
